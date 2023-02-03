@@ -1,0 +1,13 @@
+.footer{
+    
+  position: fixed;
+  left: 10px;
+  bottom: 0;
+  right: 10px;
+  padding: 5px;
+  background-color: rgb(50, 55, 178);
+  text-align: center;
+  color: black;
+  border: 3px solid #010c0e ;
+  font-size: 15px;
+}

@@ -1,0 +1,39 @@
+/* .header{
+   padding: 10px;
+   text-align: center;
+   background-color: aqua;
+   font-size: 10px;
+   border: 3px solid #010c0e ;
+} */
+
+.header{
+   padding:9px;
+   text-align: center;
+   background: #1abc9c;
+   color: white;
+   font-size: 10px;
+   left: 10px;
+   border: 3px solid #010c0e ;
+  
+}
+.header h3{
+   float: left;
+   font-size: 20px;
+}
+/*
+.header h3.name{
+   float: right;
+
+}
+*/
+
+.header span{
+   float: right;
+   color: rgb(190, 13, 13);
+   font-size: 20px;
+
+}
+
+
+
+
